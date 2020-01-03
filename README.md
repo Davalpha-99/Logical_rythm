@@ -47,5 +47,6 @@ first_funding_utc - Time (in UTC) the company first raised funding (in string fo
 last_funding_utc - Time (in UTC) the company last raised funding (in string format ‘2010-10-28’)
 successful_investment - Output Label; whether investment will be successful or not (0 = unsuccessful, 1 = successful)
 
-
+problem_statement:
+https://www.kaggle.com/c/find-the-fund
 
